@@ -18,16 +18,16 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. | … | … | chưa / một phần / rồi |
-| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. | … | … | … |
+| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. | igital Experience, Product Engineering, Application Modernization, IoT, Data Management, Analyst, Smart Space, Embedded Application, Firmware, Automation/Functional/ system/ integration tests, Application Management, Cloud, Infrastructure Services, Consultancy & Implementations. | … | chưa / một phần / rồi |
+| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. | DevOps, Tiếng Nhật (Japanese) | … | … |
 | Thái độ | Thân thiện, chuyên nghiệp | … | … | … |
-| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | … | … | … |
+| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | C++, Python, Java, Golang, SAP, ERP, AWS, Oracle. | … | … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
+| 1 | MB Bank | Tester | […](https://itviec.com/companies/mb-bank) |20/09/2026|
 | 2 | … | … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
@@ -72,4 +72,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | … |
 | **Hành** | … |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini AI
