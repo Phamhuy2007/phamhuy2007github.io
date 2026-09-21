@@ -18,18 +18,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. | igital Experience, Product Engineering, Application Modernization, IoT, Data Management, Analyst, Smart Space, Embedded Application, Firmware, Automation/Functional/ system/ integration tests, Application Management, Cloud, Infrastructure Services, Consultancy & Implementations. | … | chưa / một phần / rồi |
-| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. | DevOps, Tiếng Nhật (Japanese) | … | … |
-| Thái độ | Thân thiện, chuyên nghiệp | … | … | … |
-| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | C++, Python, Java, Golang, SAP, ERP, AWS, Oracle. | … | … |
+| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. |Thống kê, Toán học, Khoa học Máy tính/Dữ liệu, Phân tích định lượng; Supervised / Unsupervised Learning, Feature Engineering, Model Evaluation & Tuning; Agile, Scrum. | … | chưa / một phần / rồi |
+| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. |5-7+ năm kinh nghiệm phân tích dữ liệu, phát triển ML/DL; triển khai sản phẩm AI thực tế; ứng dụng ML/AI trong tài chính/ngân hàng; chuyển hóa insight kỹ thuật cho lãnh đạo; mentoring, xây dựng đội nhóm; tiếng Anh. | … | … |
+| Thái độ | Thân thiện, chuyên nghiệp | Có khả năng lãnh đạo, đoàn kết. | … | … |
+| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | Spark, Scala, Python (pandas, numpy, scikit-learn, xgboost, pytorch/tensorflow), SQL, Oracle, MLOps (MLflow, Kubeflow, Docker, Kubernetes), cloud. | … | … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | MB Bank | Tester | […](https://itviec.com/companies/mb-bank) |20/09/2026|
-| 2 | Sacombank | Data Science | […](https://saramin.vn/detail-jobs/chuyen-vien-khoa-hoc-du-lieu-phong-phan-tich-du-lieu-ai-khoi-cong-nghe-thong-tin-ngan-hang-thuong-mai-co-phan-sai-gon-tai-loc-sacombank-2133067) | 21/09/2026 |
-| 3 | VNPT-Net |  Data Science | […](https://saramin.vn/detail-jobs/chuyen-vien-phan-tich-du-lieu-data-analyst-tong-cong-ty-ha-tang-mang-vnpt-net-2128234?src=topdev_home&medium=superhotjobs) | 21/09/2026 |
+| 1 | MB Bank | Tester | [MB Bank](https://itviec.com/companies/mb-bank) |20/09/2026|
+| 2 | Sacombank | Data Science | [Sacombank](https://saramin.vn/detail-jobs/chuyen-vien-khoa-hoc-du-lieu-phong-phan-tich-du-lieu-ai-khoi-cong-nghe-thong-tin-ngan-hang-thuong-mai-co-phan-sai-gon-tai-loc-sacombank-2133067) | 21/09/2026 |
+| 3 | VNPT-Net |  Data Science | [ VNPT-Net](https://saramin.vn/detail-jobs/chuyen-vien-phan-tich-du-lieu-data-analyst-tong-cong-ty-ha-tang-mang-vnpt-net-2128234?src=topdev_home&medium=superhotjobs) | 21/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
@@ -39,7 +39,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 - AI viết:Thái độ:Tư duy chiến lược, hướng tới hiệu suất cao và kết quả kinh doanh thực tiễn.
 - Tin tuyển dụng thật ra viết: Năng lực lãnh đạo tốt: mentoring, xây dựng đội nhóm và thúc đẩy hiệu suất cao .
-- Tôi sửa thành: Có khả năng lãnh đạo, đoán kết.
+- Tôi sửa thành: Có khả năng lãnh đạo, đoàn kết.
 
 **Chỗ thứ hai**
 
