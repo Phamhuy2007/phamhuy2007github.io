@@ -8,9 +8,9 @@ title: Chân dung nghề của tôi
 > Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
 ## Hướng tôi nhắm
-# Kỹ thuật phần mềm (Software Engineering)
+# Software Engineering, Data Science, Tester
 
-Vì sao: Tôi muốn phát triển sản phẩm liên quan đến hệ thống quản lý nhà thuốc (Pharmacy Management Systems). Vì trong lĩnh vực y khoa, AI vẫn chưa đào sâu vào lĩnh vực này.
+Vì sao: Tôi vì vị trí này có rất nhiều đối thủ cạnh tranh, từ dó sẽ giúp tôi cố gắng vượt lên bản thân mình và vượt lên các đối thủ khác.  
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -28,8 +28,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 | MB Bank | Tester | […](https://itviec.com/companies/mb-bank) |20/09/2026|
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 2 | Sacombank | Data Science | […](https://saramin.vn/detail-jobs/chuyen-vien-khoa-hoc-du-lieu-phong-phan-tich-du-lieu-ai-khoi-cong-nghe-thong-tin-ngan-hang-thuong-mai-co-phan-sai-gon-tai-loc-sacombank-2133067) | 21/09/2026 |
+| 3 | VNPT-Net |  Data Science | […](https://saramin.vn/detail-jobs/chuyen-vien-phan-tich-du-lieu-data-analyst-tong-cong-ty-ha-tang-mang-vnpt-net-2128234?src=topdev_home&medium=superhotjobs) | 21/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
@@ -37,9 +37,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết:Thái độ:Tư duy chiến lược, hướng tới hiệu suất cao và kết quả kinh doanh thực tiễn.
+- Tin tuyển dụng thật ra viết: Năng lực lãnh đạo tốt: mentoring, xây dựng đội nhóm và thúc đẩy hiệu suất cao .
+- Tôi sửa thành: Có khả năng lãnh đạo, đoán kết.
 
 **Chỗ thứ hai**
 
