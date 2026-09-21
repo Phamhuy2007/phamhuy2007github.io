@@ -4,8 +4,7 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
+> **Bài 1 ·
 
 ## Hướng tôi nhắm
 # Software Engineering, Data Science, Tester
@@ -18,10 +17,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. |Thống kê, Toán học, Khoa học Máy tính/Dữ liệu, Phân tích định lượng; Supervised / Unsupervised Learning, Feature Engineering, Model Evaluation & Tuning; Agile, Scrum. | … | chưa / một phần / rồi |
-| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. |5-7+ năm kinh nghiệm phân tích dữ liệu, phát triển ML/DL; triển khai sản phẩm AI thực tế; ứng dụng ML/AI trong tài chính/ngân hàng; chuyển hóa insight kỹ thuật cho lãnh đạo; mentoring, xây dựng đội nhóm; tiếng Anh. | … | … |
-| Thái độ | Thân thiện, chuyên nghiệp | Có khả năng lãnh đạo, đoàn kết. | … | … |
-| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | Spark, Scala, Python (pandas, numpy, scikit-learn, xgboost, pytorch/tensorflow), SQL, Oracle, MLOps (MLflow, Kubeflow, Docker, Kubernetes), cloud. | … | … |
+| Kiến thức | Kiến trúc Micro FrontEnd, Microservice, hệ thống Multi DC. |Thống kê, Toán học, Khoa học Máy tính/Dữ liệu, Phân tích định lượng; Supervised / Unsupervised Learning, Feature Engineering, Model Evaluation & Tuning; Agile, Scrum. | Toán tin, Khoa học dữ liệu, Toán thống kê/xác suất; Quản trị dữ liệu (Data governance); Data Model & thiết kế bảng dữ liệu; Vòng đời dữ liệu; Pháp luật & tiêu chuẩn dữ liệu; AI, Machine learning, Data Ecosystem, | chưa |
+| Kỹ năng | Lập trình Mobile, Lập trình Web, Xây dựng Back-end, Quản trị System & Cloud. |5-7+ năm kinh nghiệm phân tích dữ liệu, phát triển ML/DL; triển khai sản phẩm AI thực tế; ứng dụng ML/AI trong tài chính/ngân hàng; chuyển hóa insight kỹ thuật cho lãnh đạo; mentoring, xây dựng đội nhóm; tiếng Anh. | ≥2 năm kinh nghiệm tương đương (≥1 năm Data Analyst); Phân tích nghiệp vụ & chuyển hóa thành bài toán dữ liệu; Biểu diễn dữ liệu, tìm insights, làm báo cáo; Thiết kế data model; Xây dựng quy trình thu thập/xử lý/chia sẻ/quản lý dữ liệu; Lập trình & tư duy; Đọc hiểu tài liệu tiếng Anh, làm việc nhóm/độc lập. | một phần  |
+| Thái độ | Thân thiện, chuyên nghiệp | Có khả năng lãnh đạo, đoàn kết. | Tinh thần trách nhiệm, ý thức chất lượng sản phẩm cao; Tích cực, chủ động, đam mê công nghệ mới; Luôn tìm tòi học hỏi kiến thức & bài toán mới | Rồi  |
+| Công cụ | Mobile: React Native (Javascript), Flutter (Dart), Mini App. Web: AngularJs, ReactJs, HTML/Javascript/CSS. Back-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle. Cloud/System: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure. | Spark, Scala, Python (pandas, numpy, scikit-learn, xgboost, pytorch/tensorflow), SQL, Oracle, MLOps (MLflow, Kubeflow, Docker, Kubernetes), cloud. | Spark, Scala, Python (pandas, numpy, scikit-learn, xgboost, pytorch/tensorflow), SQL, Oracle, MLOps (MLflow, Kubeflow, Docker, Kubernetes), cloud. | chưa  |
 
 ## Ba tin tuyển dụng
 
