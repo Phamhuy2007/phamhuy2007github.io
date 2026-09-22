@@ -50,15 +50,14 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
-
+- Phía luật sư công ty lập luận rằng: Dữ liệu vị trí là bắt buộc để tính năng mới hoạt động. Chúng ta có thể thu thập ẩn danh trước để kịp tiến độ ra mắt vào ngày mai, sau đó sẽ cập nhật chính sách quyền riêng tư bổ sung sau
+- Phía người dùng lập luận rằng: Đây là hành vi xâm phạm quyền riêng tư và vi phạm sự tin tưởng nghiêm trọng. Dù dữ liệu có ẩn danh hay không, công ty không có quyền theo dõi vị trí của tôi khi tôi chưa được thông báo và chưa bấm nút đồng ý
+- **Quyết định của tôi**, Tôi quyết định vô hiệu hóa đoạn code thu thập vị trí hoặc hoãn thời gian ra mắt tính năng. Vì sao: Việc lén lút thu thập dữ liệu vi phạm nghiêm trọng đạo đức nghề nghiệp và luật bảo vệ dữ liệu, rủi ro đánh mất niềm tin của người dùng và rủi ro pháp lý lớn hơn rất nhiều so với thiệt hại của việc trễ hạn một ngày.
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Học cách sử dụng github 
+2. Tìm hiểu về các vị trí được các nhà săn đón 
+3. Học cách sử dụng AI hiệu quả 
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -66,9 +65,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Hãy cho tôi biết thái độ nào cần có khi tham gia làm việc trong công ty này  |
+| **Hoài** | Suy ngẫm: tại sao nó lại tóm tắt và lượt qua các chi tiết đó  |
+| **Học** | Học cách kiểm tra thông tim bằng cách cho chính AI dố tự kiểm tra xem thông tin đã đúng chưa |
+| **Hành** | Đặt lại câu hỏi cho AI để nó tự kiểm chứng xem phần đó nó đã làm dúng hay chưa  |
 
 Công cụ đã dùng: Gemini AI
