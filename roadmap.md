@@ -49,7 +49,7 @@ title: Bản đồ học tập bốn năm
 |3| COS120 | Cấu trúc dữ liệu và giải thuật | 3 |
 |3| COS321 | Thực hành cấu trúc dữ liệu và giải thuật | 1 |
 |3| ENS192 | Phát triển bền vững | 3 |
-|3 PHT311  | Thể hình - Thẩm mỹ 2 | 2 |
+|3| PHT311  | Thể hình - Thẩm mỹ 2 | 2 |
 |4| ENC123 | Anh ngữ 4 | 3 |
 |4| COS129 | Điện toán đám mây | 3 |
 |4| CMP5089 | Thực tập điện toán đám mây | 1 |
