@@ -119,15 +119,15 @@ Tổng số tín chỉ: Chỉ 17 tín chỉ (thấp nhất trong tất cả các
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Học kỳ 4 có số tín chỉ lớn nhất nên là học kỳ nặng nhất 
+- Bảng chương trình đào tạo thật ra ghi: 19 tín chỉ tích lũy ( ít hơn học kì 2 và học kì 6
+- Tôi sửa thành: Kỳ nặng nhất là kỳ 4, vì có rất nhiều môn quan trọng và tốn nhiều thời gian code và luyện tập
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Trong lịch trình đào tạo của trường đại học HUTECH về ngành Khoa học máy tính thì kì nào là kĩ nhẹ nhất và khì nào là kì nặng nhất. |
+| **Hoài** | Nghi ngờ số tín chỉ của AI đưa ra là sai, mặc dù nó lấy dữ liệu từ ảnh gốc |
+| **Học** | Đối chiều lại số tín chỉ có trong dữ liệu qua trang web của trường |
+| **Hành** | Em đã chỉnh sửa dữ liệu mà AI đưa ra cho khớp với dữ liệu trên web trường. |
