@@ -38,6 +38,7 @@ title: Bản đồ học tập bốn năm
 |2|PHT310 | Thể hình - Thẩm mỹ 1 | 2 |
 
 ### Năm hai
+
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 |3| ENC122 | Anh ngữ 3 | 3 |
@@ -120,7 +121,7 @@ Tổng số tín chỉ: Chỉ 17 tín chỉ (thấp nhất trong tất cả các
 **Chỗ thứ hai**
 
 - AI nói: Học kỳ 4 có số tín chỉ lớn nhất nên là học kỳ nặng nhất 
-- Bảng chương trình đào tạo thật ra ghi: 19 tín chỉ tích lũy ( ít hơn học kì 2 và học kì 6
+- Bảng chương trình đào tạo thật ra ghi: 19 tín chỉ tích lũy ( ít hơn học kì 2 và học kì 6 )
 - Tôi sửa thành: Kỳ nặng nhất là kỳ 4, vì có rất nhiều môn quan trọng và tốn nhiều thời gian code và luyện tập
 
 ## Tôi đã làm việc với AI thế nào
