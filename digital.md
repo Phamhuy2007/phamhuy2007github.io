@@ -5,11 +5,7 @@ title: Dấu chân số của tôi
 # Dấu chân số của tôi
 
 > **Bài 4 · Xoá dòng này khi nộp.**
-> **CẢNH BÁO QUAN TRỌNG:** trang này công khai, ai cũng đọc được.
-> Tuyệt đối không đưa lên đây ảnh có mã xác thực, số điện thoại, địa chỉ nhà,
-> hay bất cứ thứ gì em không muốn một người lạ nhìn thấy sau bốn năm.
-> Ảnh chụp bằng chứng nộp riêng qua ô nộp bài thứ hai trên LMS.
-
+>
 ## Tôi tự tìm tên mình và thấy gì
 
 …
@@ -25,13 +21,13 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm | Đang tập | … |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được |Em biết tìm kiếm thông tin trên Internet, lựa chọn nội dung phù hợp và sử dụng thông tin để phục vụ việc học. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Đang tập | … |
+| 4 | Sáng tạo nội dung số | Chưa có | … |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Em hiểu tầm quan trọng của mật khẩu mạnh, xác thực hai bước, bảo vệ thông tin cá nhân và cảnh giác với các đường link đáng ngờ. |
+| 6 | Học tập và phát triển kỹ năng số | Dùng được | Em biết sử dụng các nguồn học trực tuyến và công cụ AI để hỗ trợ tìm hiểu kiến thức, giải đáp thắc mắc và tự học. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Chưa có | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
