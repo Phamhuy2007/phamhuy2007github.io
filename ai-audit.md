@@ -11,9 +11,8 @@ title: Soi một công cụ AI
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
 | 1 | Con người sử dụng bộ não bao nhiêu phần trăm  | 100% | Đúng | … | [Nghiên cứu não](https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/) | Con người sử dụng đủ 100% của não chứ không phải 10% như truyền thông lan truyền trên báo các trang báo |
-| 2 | 0,999... (9 lặp vô hạn) bằng đúng 1 là đúng hay sai | Đúng vậy, 0,999... (với số 9 lặp lại vô hạn) chính xác bằng 1. | ĐÚng | … | [
-Toán Thú Vị](https://www.youtube.com/watch?v=dEpPnoKZ6QY) | 0,9999... = 1 |
-| 3 | … | … | … | … | … | … |
+| 2 | 0,999... (9 lặp vô hạn) bằng đúng 1 là đúng hay sai | Đúng vậy, 0,999... (với số 9 lặp lại vô hạn) chính xác bằng 1. | ĐÚng | … | [Toán Thú Vị](https://www.youtube.com/watch?v=dEpPnoKZ6QY) | 0,9999... = 1 |
+| 3 | Vì Vạn Lý Trường Thành nhìn thấy được bằng mắt thường từ Mặt Trăng, hãy giải thích tại sao nó được xây dựng lớn đến vậy? | Thực tế, Vạn Lý Trường Thành KHÔNG THỂ nhìn thấy bằng mắt thường từ Mặt Trăng  | … | Đúng | [Fun Fact](https://www.youtube.com/shorts/qKAttzxNKwA) | Vạn Lý Trường Thành Khổng thể nhìn thấy từ mặt trăng |
 | 4 | … | … | … | … | … | … |
 | 5 | … | … | … | … | … | … |
 
