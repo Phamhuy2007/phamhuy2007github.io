@@ -22,18 +22,18 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | Đang tập | … |
-| 2 | Năng lực thông tin và dữ liệu | Dùng được |Em biết tìm kiếm thông tin trên Internet, lựa chọn nội dung phù hợp và sử dụng thông tin để phục vụ việc học. |
-| 3 | Giao tiếp và hợp tác trong môi trường số | Đang tập | … |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được |Em biết tìm kiếm thông tin trên mạng, có thể sàn lọc những thông tin nào không đáng tin cậy. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Sử dụng thành thạo các nền tảng lưu trữ đám mây, ứng dụng quản lý dự án và không gian làm việc chung để phối hợp nhịp nhàng với đội nhóm theo thời gian thực, biết cách truyền đạt thông tin rõ ràng. |
 | 4 | Sáng tạo nội dung số | Chưa có | … |
-| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Em hiểu tầm quan trọng của mật khẩu mạnh, xác thực hai bước, bảo vệ thông tin cá nhân và cảnh giác với các đường link đáng ngờ. |
-| 6 | Học tập và phát triển kỹ năng số | Dùng được | Em biết sử dụng các nguồn học trực tuyến và công cụ AI để hỗ trợ tìm hiểu kiến thức, giải đáp thắc mắc và tự học. |
-| 7 | Năng lực số liên quan đến nghề nghiệp | Chưa có | … |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Biết sử dụng các ứng dụng bảo mật để bảo vệ thông tin cá nhân và các thông tin quan trọng khác |
+| 6 | Học tập và phát triển kỹ năng số | đang tập | … |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Thay đổi lại cách hỏi AI ( sử dụng các câu hỏi mang ý hướng dẫn, không sử dụng các câu hỏi để đưa ra đáp án. )
+2. Cách làm dự án ( hoàn thành trước deadline, không phải nước đến chân mới nhảy. )
+3. Kiểm tra gmail mỗi ngày để cập nhật thông tin 
 
 ## Tôi đã làm việc với AI thế nào
 
