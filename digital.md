@@ -4,8 +4,6 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
->
 ## Tôi tự tìm tên mình và thấy gì
 
 …
