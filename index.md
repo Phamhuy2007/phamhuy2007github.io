@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng Software
 - 3 việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - 5 việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-phuy51361@gmail.com · <https://phamhuy2007github.io>
+phuy51361@gmail.com · [<https://phamhuy2007github.io>](https://github.com/Phamhuy2007/phamhuy2007github.io)
 
 <!-- ================= hết phần tóm tắt ================= -->
 
