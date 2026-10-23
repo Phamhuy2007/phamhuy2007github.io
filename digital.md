@@ -26,7 +26,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Sử dụng thành thạo các nền tảng lưu trữ đám mây, ứng dụng quản lý dự án và không gian làm việc chung để phối hợp nhịp nhàng với đội nhóm theo thời gian thực, biết cách truyền đạt thông tin rõ ràng. |
 | 4 | Sáng tạo nội dung số | Chưa có | … |
 | 5 | An ninh và an toàn trên không gian mạng | Dùng được | Biết sử dụng các ứng dụng bảo mật để bảo vệ thông tin cá nhân và các thông tin quan trọng khác |
-| 6 | Học tập và phát triển kỹ năng số | đang tập | … |
+| 6 | Học tập và phát triển kỹ năng số | Đang tập | … |
 | 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
@@ -41,7 +41,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Em hỏi làm cách nào để có thể phân biệt được mình đang ở mức đang tập hay mức dùng được? |
+| **Hoài** | Em suy nghĩ về vấn đề tại sao tôi đã trả lời câu hỏi đó rồi mà AI vẫn cứ tiếp tục hỏi lại câu hỏi đó nhưng thay bằng các chữ khác |
+| **Học** | Em hiểu được rằng việc hỏi đi hỏi lại 1 câu hỏi giúp kích thích tư duy phản biển đồng thời kiểm tra độ hiểu bài của người dùng |
+| **Hành** | Em kiên trì trả lời các câu hỏi mà AI đưa ra, không nản khi nó hỏi lại câu hỏi đó nhiều lần |
