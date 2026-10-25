@@ -11,14 +11,14 @@ title: Nhật ký dùng AI
 | 3 | Claude, Gemini | Sinh bản nháp | Hãy cho tôi các câu hỏi vì sao về các vấn đề có trong các cuộc họp và làm việc trong nhóm Chăm viết code  | Tôi điều chỉnh lại các câu hỏi vì sao sao cho các câu hỏi đúng với các vấn đề mà nhóm gặp phải. |
 | 4 | Gemini,  | Người kèm cặp | Em hỏi làm cách nào để có thể phân biệt được mình đang ở mức đang tập hay mức dùng được? | … |
 | 5 | Claude, Gemini | Đối tác phản biện | Trả lời các câu hỏi của tôi ( để kiểm tra xem AI sẽ dễ sai và cung cấp thông tin sai lệch khi nào và ở lĩnh vực nào là dễ sai nhất ) | AI thường sai ở các cách phép tính phức tạp và tên các đơn vị trong môn vật lý. |
-| 6 | Gemini | … | … | … |
+| 6 | … | … | … | … |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
-2. …
-3. …
+1. Phản biện về việc thu thập thông tin của người dùng còn rất chung chung
+2. Sai số tín chỉ 
+3. Nói sai đơn vị của Khồi lượng riêng của nước
 
 ## Điều tôi học được về cách làm việc với nó
 
-…
+AI thường mắc lỗi ở việc ghi sai đơn vị, tính các bài toán dạng các bài toán thực tế và thường sẽ đưa ra các nhận xét chung chung về 1 sự việc bất kì.
