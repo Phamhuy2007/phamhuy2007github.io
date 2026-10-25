@@ -3,10 +3,9 @@ title: Dấu chân số của tôi
 ---
 
 # Dấu chân số của tôi
-Các thông tin về địa chỉ, số điện thoại và email của em chưa hiển thị trên không gian mạng, điều này cho thấy rằng em đang bảo mật thông tin cá nhân khá tốt, nhưng em vẫn muốn biết nhiều điều hơn để tránh bị lộ thông tin trong các hoạt động tương lai sau này.
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Khi em tra thông tin của em trên không gian mạng, thì có những người có cùng tên với em nhưng các thông tin về địa chỉ, số điện thoại và email của em không có hiển thị trên không gian mạng, điều này cho thấy rằng em đang bảo mật thông tin cá nhân khá tốt, nhưng em vẫn muốn biết nhiều điều hơn để tránh bị lộ thông tin trong các hoạt động tương lai sau này.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
